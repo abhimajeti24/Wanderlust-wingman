@@ -87,8 +87,6 @@ Wanderlust Wingman is an intelligent travel planning assistant that helps you cr
 
 
 ---
-
-Made with ❤ by [Diya Victor](https://github.com/DiyaVictor)
 ![IMG-20240804-WA0002](https://github.com/user-attachments/assets/9df8784d-fefd-476d-8e87-58c11a90468f)
 ![IMG-20240804-WA0003](https://github.com/user-attachments/assets/e6a35146-41bd-4c99-bdb8-93ecfd044e6b)
 ![IMG-20240804-WA0004](https://github.com/user-attachments/assets/fd6ddb4c-0189-455f-87fb-7a20d6aa7239)
